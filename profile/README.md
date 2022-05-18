@@ -1,7 +1,10 @@
 <br>
-<h1>We are 무럭무럭 developr team!👋👋</h1>
+<h1>We are 🌱무럭무럭 developr team!👋👋</h1>
 <hr>
 <br>
+
+<h2>🌱What does 무럭무럭 do?🌱</h2>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/MRMR 무럭무럭-3ccf4b?style=for-the-badge&logo=GitHub&logoColor=3ccf4b&labelColor=FFFFFF"/>   <br>
 
 
 <h2>😄Our Team Members:</h2>
