@@ -1,12 +1,8 @@
-#Hello, World! 👋
+<br>
+<h1>We are 무럭무럭 developr team!👋👋</h1>
+<hr>
+<br>
 
-We are 무럭무럭 developers!  
-This GitHub written by MRMR Developer Team!
-
---
-
-###😄Our Members:  
+<h3>😄Our Team Members:</h3>
+<br>
 @tastywaffle
-@
-@
-@
