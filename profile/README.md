@@ -8,7 +8,7 @@ Developer
 Designer
 <img src="https://img.shields.io/badge/Designer-d13b15?style=flat">
 Product Manager(기획자)
-
+<img src="https://img.shields.io/badge/Product Manager-6a1cc9?style=flat">
 
 박은서
 <img src="https://img.shields.io/badge/박은서-d13b15?style=flat">
@@ -79,17 +79,44 @@ Product Manager(기획자)
   <br><br>
   <br>
 <h2>😄Our Team Members:</h2>
-<h3>Team Leader & Manager<br>Park EunSeo</h3>
-<em><b>beloning...</b></em>  
+  
+ 
+  
+<h3>Team Leader & Manager<br>Park EunSeo</h3>  
+  
+***Beloning...***  
 
 >MRMR Development Team  <br>
 >Green-MRMR  <br>
->Eco-MRMR  <br>
-
+>Eco-MRMR  
+  
+  <br>
+  
+  ***Position***  
+  <img src="https://img.shields.io/badge/Leader-fff700?style=flat"> <img src="https://img.shields.io/badge/Team|Project Manager-02161a?style=flat"> <img src="https://img.shields.io/badge/Developer-79d11b?style=flat"> <img src="https://img.shields.io/badge/Designer-d13b15?style=flat"> <img src="https://img.shields.io/badge/Product Manager-6a1cc9?style=flat">
+  
+  ***Tasks***  
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+  
+  ***Contact***
+  
 <a href="https://github.com/fhfhfhfhgpdl" target="_blank"><img src="https://img.shields.io/badge/GitHub @fhfhfhfhgpdl-171717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=FFFFFF"/>   <br>
 <a href="mailto:dimi_pes0107@dimigo.hs.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail dimi_pes0107@dimigo.hs.kr-8f2d28?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&labelColor=EA4335"/> <br> 
 <a href="https://www.instagram.com/tastywaffle/" target="_blank"><img src="https://img.shields.io/badge/Instagram @tastywaffle-ffe6ea?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&labelColor=E4405F"/> <br>  
 <br>
+  
+  
+  
   
   <h3>Team Members</h3>
   <h3>Choi 호연</h3>
