@@ -25,7 +25,7 @@ Product Manager(기획자)
 
 <br>
 
-![We are 🌱무럭무럭 developr team!👋👋](https://capsule-render.vercel.app/api?type=transparent&color=0:00ff77,100:00d941&height=300&section=header&text=Hi,%20We%20are%20🌱무럭무럭🌱's&fontSize=40&animation=fadeIn&fontColor=084d1d&fontAlign=65&fontAlignY=90)
+![](https://capsule-render.vercel.app/api?type=transparent&color=0:00ff77,100:00d941&height=300&section=header&text=Hi,%20We%20are%20🌱무럭무럭🌱's&fontSize=40&animation=fadeIn&fontColor=084d1d&fontAlign=65&fontAlignY=90)
 ![](https://capsule-render.vercel.app/api?type=transparent&color=0:00ff77,100:00d941&height=300&section=header&text=Development%20Team!!👋👋&fontSize=60&animation=fadeIn&fontColor=00ff4d&fontAlign=55&fontAlignY=10)
 
 <hr>
