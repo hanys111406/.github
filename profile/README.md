@@ -9,13 +9,25 @@ Designer
 <img src="https://img.shields.io/badge/Designer-d13b15?style=flat">
 Product Manager(기획자)
 
+
+박은서
+<img src="https://img.shields.io/badge/박은서-d13b15?style=flat">
+최호연
+
+백가온 
+
+한연수 
+
 -->
 
 
 
 
 <br>
-<h1>We are 🌱무럭무럭 developr team!👋👋</h1>
+
+![We are 🌱무럭무럭 developr team!👋👋](https://capsule-render.vercel.app/api?type=transparent&color=0:00ff77,100:00d941&height=300&section=header&text=Hi,%20We%20are%20🌱무럭무럭🌱's&fontSize=40&animation=fadeIn&fontColor=084d1d&fontAlign=65&fontAlignY=90)
+![](https://capsule-render.vercel.app/api?type=transparent&color=0:00ff77,100:00d941&height=300&section=header&text=Development%20Team!!👋👋&fontSize=60&animation=fadeIn&fontColor=00ff4d&fontAlign=55&fontAlignY=10)
+
 <hr>
 <br>
 
@@ -28,7 +40,7 @@ Product Manager(기획자)
 <a href="" target="_blank"><img src="https://img.shields.io/badge/MRMR 무럭무럭-3ccf4b?style=for-the-badge&logo=GitHub&logoColor=3ccf4b&labelColor=FFFFFF"/>   <br>
 <br><br><br>
   
-  <h2>💻⌨️About MRMR Developer Team!</h2>
+  <h2>💻⌨️About MRMR Development Team!</h2>
   <h3>🛠️Our Tasks</h3>
   
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
@@ -47,6 +59,12 @@ Product Manager(기획자)
   ><img src="https://img.shields.io/badge/Developer-79d11b?style=flat"> [백가온](https://github.com/gaon060101)  
   ><img src="https://img.shields.io/badge/Developer-79d11b?style=flat"> [한연수](https://github.com/hanys111406)  
   
+  <br>
+  
+  >Description  
+  
+  <br>
+  
   
   ***Eco-MRMR***  
   
@@ -64,7 +82,7 @@ Product Manager(기획자)
 <h3>Team Leader & Manager<br>Park EunSeo</h3>
 <em><b>beloning...</b></em>  
 
->MRMR Developer Team  <br>
+>MRMR Development Team  <br>
 >Green-MRMR  <br>
 >Eco-MRMR  <br>
 
@@ -81,7 +99,7 @@ Product Manager(기획자)
   <br>
   <em><b>beloning...</b></em>  
 
->MRMR Developer Team  <br>
+>MRMR Development Team  <br>
 >Eco-MRMR  <br>
   <br>
   <h3>Back 가온</h3>
@@ -91,7 +109,7 @@ Product Manager(기획자)
   <br>
   <em><b>beloning...</b></em>  
 
->MRMR Developer Team  <br>
+>MRMR Development Team  <br>
 >Green-MRMR  <br>
 >Eco-MRMR  <br>
   <br>
@@ -102,7 +120,7 @@ Product Manager(기획자)
   <br>
   <em><b>beloning...</b></em>  
 
->MRMR Developer Team  <br>
+>MRMR Development Team  <br>
 >Green-MRMR  <br>
 >Eco-MRMR  <br>
   
