@@ -10,8 +10,34 @@
 
 <h2>🌱What does 무럭무럭 do?🌱</h2>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/MRMR 무럭무럭-3ccf4b?style=for-the-badge&logo=GitHub&logoColor=3ccf4b&labelColor=FFFFFF"/>   <br>
-
-
+<br><br><br>
+  
+  <h2>💻⌨️About MRMR Developer Team!</h2>
+  <h3>🛠️Our Tasks</h3>
+  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+  <br><br>
+  
+  <h3>📚Our Projects</h3>
+  
+  ***MRMR Web Project***  
+  >Members: 
+  
+  
+  ***Eco-MRMR***  
+  
+  
+  
+  ***Green-MRMR***  
+  
+  
+  
+  
+  
+  <br><br>
   <br>
 <h2>😄Our Team Members:</h2>
 <h3>Team Leader & Manager<br>Park EunSeo</h3>
