@@ -148,7 +148,7 @@ Product Manager(기획자)
 >Green-MRMR  <br>
 >Eco-MRMR  <br>
   <br>
-  <h3>Han 연수</h3>
+  <h3>Han Yeon soo</h3>
   -  
   -  
   -  
