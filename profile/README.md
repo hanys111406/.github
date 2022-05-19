@@ -11,7 +11,7 @@ Product Manager(기획자)
 <img src="https://img.shields.io/badge/Product Manager-6a1cc9?style=flat">
 
 박은서
-<img src="https://img.shields.io/badge/박은서-d13b15?style=flat">
+<a href="https://github.com/fhfhfhfhgpdl" target="_blank"><img src="https://img.shields.io/badge/Park Eunseo-ffc412?style=for-the-badge"/>
 최호연
 
 백가온 
@@ -36,42 +36,50 @@ Product Manager(기획자)
 <br>
 
 
-<h2>🌱What does 무럭무럭 do?🌱</h2>
+<h1>🌱What does 무럭무럭 do?🌱</h1>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/MRMR 무럭무럭-3ccf4b?style=for-the-badge&logo=GitHub&logoColor=3ccf4b&labelColor=FFFFFF"/>   <br>
 <br><br><br>
   
-  <h2>💻⌨️About MRMR Development Team!</h2>
-  <h3>🛠️Our Tasks</h3>
-  
+  <h1>💻⌨️About MRMR Development Team!</h1>
+  <h2>🛠️Our Tasks</h2>
+  <hr>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <br><br>
   
-  <h3>📚Our Projects</h3>
+  <h2>📚Our Projects</h2>
+  <hr>
+  <h3><em><b>MRMR Web Project</b></em></h3>
   
-  ***MRMR Web Project***  
-  >Members:  
+  ***Members:***  
 
-  ><img src="https://img.shields.io/badge/Leader-fff700?style=flat"> <img src="https://img.shields.io/badge/Team|Project Manager-02161a?style=flat"> <img src="https://img.shields.io/badge/Developer-79d11b?style=flat"> [박은서](https://github.com/fhfhfhfhgpdl)  
-  ><img src="https://img.shields.io/badge/Developer-79d11b?style=flat"> [최호연](https://github.com/hoyun110)  
-  ><img src="https://img.shields.io/badge/Developer-79d11b?style=flat"> [백가온](https://github.com/gaon060101)  
-  ><img src="https://img.shields.io/badge/Developer-79d11b?style=flat"> [한연수](https://github.com/hanys111406)  
+  ><a href="https://github.com/fhfhfhfhgpdl" target="_blank"><img src="https://img.shields.io/badge/Park Eunseo-ffc412?style=for-the-badge"/>
+  >><img src="https://img.shields.io/badge/Leader-fff700?style=flat"> <img src="https://img.shields.io/badge/Team|Project Manager-02161a?style=flat"> <img src="https://img.shields.io/badge/Developer-79d11b?style=flat">  
+  
+  ><a href="https://github.com/hoyun110" target="_blank"><img src="https://img.shields.io/badge/Choi Hoyun-039417?style=for-the-badge"/>  
+  >><img src="https://img.shields.io/badge/Developer-79d11b?style=flat">
+  
+  ><a href="https://github.com/gaon060101" target="_blank"><img src="https://img.shields.io/badge/Back Gaon-6e18a8?style=for-the-badge"/>  
+  >><img src="https://img.shields.io/badge/Developer-79d11b?style=flat"> 
+  
+  ><a href="https://github.com/hanys111406" target="_blank"><img src="https://img.shields.io/badge/Han Yeonsu-c44141?style=for-the-badge"/>
+  >><img src="https://img.shields.io/badge/Developer-79d11b?style=flat">
+  
+  <em><b> Description:</em></b>  
+  
+  >'MRMR Web Project' is '무럭무럭' club's promote Web-page.
   
   <br>
   
-  >Description  
   
-  <br>
-  
-  
-  ***Eco-MRMR***  
+  <h3><em><b>Eco-MRMR</b></em></h3>  
+  <hr>
   
   
-  
-  ***Green-MRMR***  
-  
+  <h3><em><b>Green-MRMR</b></em></h3>  
+  <hr>
   
   
   
