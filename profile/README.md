@@ -25,10 +25,11 @@
   
   ***MRMR Web Project***  
   >Members:  
-  >>[박은서](https://github.com/fhfhfhfhgpdl)  
-  >>[최호연](https://github.com/hoyun110)  
-  >>[백가온](https://github.com/gaon060101)  
-  >>[한연수](https://github.com/hanys111406)  
+
+  >[박은서](https://github.com/fhfhfhfhgpdl)  
+  >[최호연](https://github.com/hoyun110)  
+  >[백가온](https://github.com/gaon060101)  
+  >[한연수](https://github.com/hanys111406)  
   
   
   ***Eco-MRMR***  
