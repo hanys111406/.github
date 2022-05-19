@@ -1,3 +1,19 @@
+<!-- Badge 모음
+Leader
+<img src="https://img.shields.io/badge/Leader-fff700?style=flat">
+Team|Project Manager
+<img src="https://img.shields.io/badge/Team|Project Manager-02161a?style=flat">
+Developer
+<img src="https://img.shields.io/badge/Developer-162d80?style=flat">
+Designer
+<img src="https://img.shields.io/badge/Designer-d13b15?style=flat">
+Product Manager(기획자)
+
+-->
+
+
+
+
 <br>
 <h1>We are 🌱무럭무럭 developr team!👋👋</h1>
 <hr>
@@ -26,10 +42,10 @@
   ***MRMR Web Project***  
   >Members:  
 
-  >[박은서](https://github.com/fhfhfhfhgpdl)  
-  >[최호연](https://github.com/hoyun110)  
-  >[백가온](https://github.com/gaon060101)  
-  >[한연수](https://github.com/hanys111406)  
+  ><img src="https://img.shields.io/badge/Leader-fff700?style=flat"> <img src="https://img.shields.io/badge/Team|Project Manager-02161a?style=flat"> <img src="https://img.shields.io/badge/Developer-79d11b?style=flat"> [박은서](https://github.com/fhfhfhfhgpdl)  
+  ><img src="https://img.shields.io/badge/Developer-79d11b?style=flat"> [최호연](https://github.com/hoyun110)  
+  ><img src="https://img.shields.io/badge/Developer-79d11b?style=flat"> [백가온](https://github.com/gaon060101)  
+  ><img src="https://img.shields.io/badge/Developer-79d11b?style=flat"> [한연수](https://github.com/hanys111406)  
   
   
   ***Eco-MRMR***  
